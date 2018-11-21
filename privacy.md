@@ -18,6 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
+*   [NASA Web Privacy Policy and Important Notices](https://www.nasa.gov/about/highlights/HP_Privacy.html)
 
 **Log Data**
 
