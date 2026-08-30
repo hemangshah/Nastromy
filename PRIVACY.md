@@ -2,7 +2,7 @@
 
 **App:** Nastromy — Astronomy Photo of the Day  
 **Developer:** Hemang Shah, Stockholm, Sweden  
-**Contact:** hemangshah.in@gmail.com  
+**Contact:** nastromyapp@gmail.com  
 **Last updated:** 2026-08-30  
 
 ---
@@ -21,7 +21,7 @@ The data controller for the App is:
 
 **Hemang Shah**  
 Stockholm, Sweden  
-hemangshah.in@gmail.com
+nastromyapp@gmail.com
 
 ---
 
@@ -75,7 +75,7 @@ If you enable the Daily APOD Reminder, the App schedules a local notification on
 
 Since we hold no personal data about you on any server, most GDPR data subject rights (access, rectification, portability, erasure) are automatically satisfied — all your data is on your own device and fully under your control.
 
-If you have questions about how the App handles data, you have the right to contact us at **hemangshah.in@gmail.com**.
+If you have questions about how the App handles data, you have the right to contact us at **nastromyapp@gmail.com**.
 
 You also have the right to lodge a complaint with the Swedish supervisory authority:
 
@@ -106,4 +106,4 @@ If we make material changes to this policy, we will update the "Last updated" da
 ## 10. Contact
 
 For any privacy-related questions, contact:  
-**hemangshah.in@gmail.com**
+**nastromyapp@gmail.com**

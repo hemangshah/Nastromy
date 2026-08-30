@@ -2,7 +2,7 @@
 
 **App:** Nastromy — Astronomy Photo of the Day  
 **Developer:** Hemang Shah, Stockholm, Sweden  
-**Contact:** hemangshah.in@gmail.com  
+**Contact:** nastromyapp@gmail.com  
 **Last updated:** 2026-08-30  
 **Governing law:** Swedish law
 
@@ -85,4 +85,4 @@ As a consumer in the EU, you also have the right to use the EU Online Dispute Re
 ## 10. Contact
 
 For questions about these Terms, contact:  
-**hemangshah.in@gmail.com**
+**nastromyapp@gmail.com**
