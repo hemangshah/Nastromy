@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**App:** Nastromy — Astronomy Photo of the Day  
+**App:** Nastromy — Astronomy Picture of the Day  
 **Developer:** Hemang Shah, Stockholm, Sweden  
 **Contact:** nastromyapp@gmail.com  
-**Last updated:** 2026-08-30  
+**Last updated:** 2026-10-17
 
 ---
 
@@ -34,7 +34,8 @@ The following information is stored locally on your iPhone using Apple's framewo
 | Data | Purpose | Storage |
 |------|---------|---------|
 | Favorited photos | So you can revisit your saved APODs | SwiftData (device only) |
-| App preferences (HD images, TTS, notification time) | Remembering your settings | UserDefaults (device only) |
+| App preferences (appearance, TTS, notification time) | Remembering your settings | UserDefaults (device only) |
+| Cached APOD data | Reducing data usage on repeat visits | SwiftData (device only) |
 | Cached images | Reducing data usage on repeat visits | iOS URLCache (device only) |
 | Notification schedule | Sending you a daily reminder at your chosen time | iOS UNUserNotificationCenter (device only) |
 
@@ -42,11 +43,7 @@ You can clear all of the above at any time from within the App (Settings → Cac
 
 ### 3.2 NASA APOD API
 
-The App fetches photo data from NASA's Astronomy Photo of the Day API (`api.nasa.gov`). This request includes:
-- A static API key (identifies the App to NASA, not you personally)
-- A date range for the photos requested
-
-**No personal data about you is sent to NASA.** NASA's own privacy policy applies to their service: [https://www.nasa.gov/privacy](https://www.nasa.gov/privacy).
+The App fetches photo data from NASA's Astronomy Picture of the Day service at `science.nasa.gov`. These requests include only a date range for the photos requested. **No API key and no personal data about you is sent to NASA.** NASA's own privacy policy applies to their service: [https://www.nasa.gov/privacy](https://www.nasa.gov/privacy).
 
 ---
 

@@ -1,9 +1,9 @@
 # Terms of Use
 
-**App:** Nastromy — Astronomy Photo of the Day  
+**App:** Nastromy — Astronomy Picture of the Day  
 **Developer:** Hemang Shah, Stockholm, Sweden  
 **Contact:** nastromyapp@gmail.com  
-**Last updated:** 2026-08-30  
+**Last updated:** 2026-10-17  
 **Governing law:** Swedish law
 
 ---
@@ -16,7 +16,7 @@ By downloading or using Nastromy ("the App"), you agree to these Terms of Use. I
 
 ## 2. About the App
 
-Nastromy is a free application that displays the NASA Astronomy Photo of the Day (APOD). It is provided as-is, free of charge, as a personal project with no commercial intent.
+Nastromy is a free application that displays the NASA Astronomy Picture of the Day (APOD). It is provided as-is, free of charge, as a personal project.
 
 ---
 
@@ -24,7 +24,7 @@ Nastromy is a free application that displays the NASA Astronomy Photo of the Day
 
 ### 3.1 NASA APOD Content
 
-All astronomical images, videos, and explanations displayed in the App are sourced from NASA's Astronomy Photo of the Day API. This content is owned by NASA or the respective credited photographers and institutions. NASA content is generally in the public domain unless otherwise stated, but some images are copyrighted by their respective authors as noted in the App.
+All astronomical images, videos, and explanations displayed in the App are sourced from NASA's Astronomy Picture of the Day service. This content is owned by NASA or the respective credited photographers and institutions. NASA content is generally in the public domain unless otherwise stated, but some images are copyrighted by their respective authors as noted in the App.
 
 The App does not claim ownership over any APOD content.
 
@@ -49,7 +49,7 @@ You may use the App for personal, non-commercial purposes only. You may not:
 The App is provided **"as is"** without warranty of any kind, express or implied. We do not guarantee that:
 
 - The App will be available at all times
-- APOD content will be available (this depends on NASA's API)
+- APOD content will be available (this depends on NASA's service)
 - The App will be free of errors
 
 ---
@@ -62,8 +62,8 @@ To the maximum extent permitted by Swedish law, Hemang Shah shall not be liable 
 
 ## 7. Third-Party Services
 
-The App uses the NASA APOD API. Your use of that service is subject to NASA's own terms:  
-[https://api.nasa.gov](https://api.nasa.gov)
+The App uses NASA's Astronomy Picture of the Day service. Your use of that service is subject to NASA's own terms:  
+[https://science.nasa.gov](https://science.nasa.gov)
 
 ---
 
