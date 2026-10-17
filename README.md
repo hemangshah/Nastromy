@@ -1,5 +1,9 @@
 # Nastromy
 
+<p align="center">
+  <img src="assets/AppIcon-1024.png" width="120" alt="Nastromy app icon">
+</p>
+
 **Nastromy** is an iOS app for exploring NASA's Astronomy Picture of the Day (APOD).
 
 Browse stunning space imagery updated daily — from distant galaxies to our own solar system — with explanations written by professional astronomers.
